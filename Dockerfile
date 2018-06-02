@@ -1,5 +1,5 @@
 FROM	ubuntu:12.04.5
-MAINTAINER	BPI  "BPI-SINOVOIP"
+MAINTAINER	AaronNGray "aaronngray@gmail.com"
 
 RUN	apt-get update && apt-get install -y \
 	apt-utils \
